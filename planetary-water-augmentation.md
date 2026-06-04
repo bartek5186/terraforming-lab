@@ -1,6 +1,7 @@
 # Planetary Water Augmentation Through Imported Ice Resources
 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/b4e653de-6ebf-458e-b649-d46d9e9d909c" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/bfdbfa4d-4420-4871-81c9-c45989caceba" />
 
 ## Abstract
 
