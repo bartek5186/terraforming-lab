@@ -1,5 +1,7 @@
 # Zasilenie Planety Wodą Poprzez Import Materiału Lodowego
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/7c93dbfb-0a74-4f25-a7e1-759ab4d6440c" />
+
 ## Streszczenie
 
 Niniejszy dokument przedstawia koncepcję zwiększenia zasobów wodnych planety poprzez kontrolowany import lodu z innych regionów układu planetarnego. W przeciwieństwie do klasycznych scenariuszy opartych na impaktach komet lub asteroid, proponowany model zakłada dostarczanie rozproszonego materiału lodowego na orbitę zbliżoną do orbity planety, minimalizując energię zderzeń oraz ryzyko katastrofalnych skutków geologicznych.
