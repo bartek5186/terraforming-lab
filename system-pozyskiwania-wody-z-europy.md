@@ -1,5 +1,7 @@
 # System Pozyskiwania i Eksportu Wody z Europy
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/395e1640-2a8f-426d-9c4d-c58a8b0d6165" />
+
 ## Streszczenie
 
 Dokument przedstawia koncepcję przemysłowego pozyskiwania wody z Europy — jednego z lodowych księżyców Jowisza — oraz jej eksportu do innych regionów Układu Słonecznego w celu wspierania projektów terraformacji, budowy kolonii kosmicznych i zwiększania zasobów wodnych planet.
