@@ -1,5 +1,7 @@
 # Autonomous Water Harvesting Swarm
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/35fa97d5-bb48-4ba1-befc-07b76fc09d31" />
+
 ## Abstract
 
 This document presents a concept for a decentralized network of autonomous systems designed to harvest, store, and transport water from the asteroid belt and other ice-rich bodies throughout the Solar System.
