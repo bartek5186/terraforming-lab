@@ -1,5 +1,7 @@
 # Solar Mesh Bitcoin — międzyplanetarna optyczna sieć przekaźnikowa dla kryptograficznych danych
 
+<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/4bb99ef3-b16c-4aa8-a03e-d3e44ebbd66b" />
+
 ## 1. Streszczenie
 
 **Solar Mesh Bitcoin** to koncepcja międzyplanetarnej sieci komunikacyjnej opartej o laserowe łącza optyczne, ruchome przekaźniki heliocentryczne, punkty Lagrange’a, orbitery planetarne, infrastrukturę księżycową oraz protokoły typu Delay/Disruption Tolerant Networking. Celem systemu jest umożliwienie niezależnego, odpornego i kryptograficznie weryfikowalnego przesyłania danych Bitcoina oraz innych protokołów rozliczeniowych pomiędzy Ziemią, Księżycem, Marsem i kolejnymi obszarami Układu Słonecznego.
