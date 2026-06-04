@@ -1,5 +1,7 @@
 # Europa Water Extraction and Export System
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/8ca18018-e757-441a-b537-97214e409718" />
+
 ## Abstract
 
 This concept proposes a large-scale planetary engineering system for harvesting water from Europa, one of Jupiter's icy moons, and exporting it throughout the Solar System for terraforming and planetary water augmentation projects.
