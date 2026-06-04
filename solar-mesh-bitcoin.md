@@ -1,5 +1,7 @@
 # Solar Mesh Bitcoin — an interplanetary optical relay network for cryptographic data
 
+<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/ed5ed3f6-1c7d-4a25-aa8f-4d48231853e4" />
+
 ## 1. Executive summary
 
 **Solar Mesh Bitcoin** is a concept for an interplanetary communication network based on laser optical links, mobile heliocentric relays, Lagrange-point hubs, planetary orbiters, lunar infrastructure, and Delay/Disruption Tolerant Networking protocols. Its goal is to enable independent, resilient, and cryptographically verifiable transmission of Bitcoin data and other settlement-layer messages between Earth, the Moon, Mars, and eventually other regions of the Solar System.
