@@ -1,5 +1,7 @@
 # Autonomiczna Rojowa Sieć Pozyskiwania Wody
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/dd4cc049-0f2b-4942-9d81-d1e68f1e4322" />
+
 ## Streszczenie
 
 Dokument przedstawia koncepcję zdecentralizowanej sieci autonomicznych jednostek odpowiedzialnych za pozyskiwanie, magazynowanie i transport wody z pasa asteroid oraz innych lodowych obiektów Układu Słonecznego.
