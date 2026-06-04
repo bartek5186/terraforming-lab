@@ -1,6 +1,7 @@
 # Zasilenie Planety Wodą Poprzez Import Materiału Lodowego
 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/7c93dbfb-0a74-4f25-a7e1-759ab4d6440c" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/f9de456a-52e5-417f-8660-1e8e41e8236c" />
 
 ## Streszczenie
 
