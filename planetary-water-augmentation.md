@@ -1,5 +1,7 @@
 # Planetary Water Augmentation Through Imported Ice Resources
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/b4e653de-6ebf-458e-b649-d46d9e9d909c" />
+
 ## Abstract
 
 This document presents a conceptual approach for increasing a planet's water reserves through the controlled import of extraterrestrial ice. Unlike traditional models based on comet or asteroid impacts, the proposed system relies on distributing fragmented ice along an orbit closely matching the target planet's trajectory, minimizing impact energy while maximizing water delivery efficiency.
